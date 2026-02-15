@@ -1,0 +1,10 @@
+# Local Wi-Fi / OTA credentials
+breathwork_helper/secrets.h
+
+# Arduino build output
+/tmp/breathwork-build/
+/tmp/breathwork-out/
+breathwork_helper/build/
+
+# macOS
+.DS_Store
